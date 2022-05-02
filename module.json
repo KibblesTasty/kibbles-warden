@@ -1,0 +1,32 @@
+{
+"name": "kibbles-warden",
+"title": "Kibbles' Warden",
+"description": "The Foundry module for Kibbles' warden.",
+"author": "KibblesTasty",
+"version": "0.7.0",
+"minimumCoreVersion": "0.6.0",
+"compatibleCoreVersion": "9",
+"manifest": "https://github.com/KibblesTasty/kibbles-warden/releases/download/archive/module.json",
+"download": "https://github.com/KibblesTasty/kibbles-warden/releases/download/archive/kibbles-warden-main.zip",
+"keywords" : [
+			"classes",
+			"subclasses",
+			"warden"
+		],
+"packs": [
+			{
+			"name": "kibbles-warden",
+			"label": "Kibbles' warden",
+			"system": "dnd5e",
+			"path": "packs/kibbles-warden.db",
+			"entity": "Item",
+			"module": "kibbles-warden"
+			}
+		],
+"authors": [
+			{
+			  "name": "KibblesTasty",
+			  "url": "https://kthomebrew.com"
+			}
+		]
+}

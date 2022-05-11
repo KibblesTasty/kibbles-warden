@@ -3,7 +3,7 @@
 "title": "Kibbles' Warden",
 "description": "The Foundry module for Kibbles' warden.",
 "author": "KibblesTasty",
-"version": "0.7.0",
+"version": "0.8.0",
 "minimumCoreVersion": "0.6.0",
 "compatibleCoreVersion": "9",
 "manifest": "https://github.com/KibblesTasty/kibbles-warden/releases/download/archive/module.json",
@@ -16,7 +16,7 @@
 "packs": [
 			{
 			"name": "kibbles-warden",
-			"label": "Kibbles' warden",
+			"label": "Kibbles' Warden",
 			"system": "dnd5e",
 			"path": "packs/kibbles-warden.db",
 			"entity": "Item",
